@@ -70,17 +70,7 @@ const Header = () => {
                      Plans
                   </NavLink>
                </li>
-               <li>
-                  <NavLink
-                     className="active"
-                     to="/Calendar"
-                     style={({ isActive }) =>
-                        isActive ? activeStyle : undefined
-                     }
-                  >
-                     Calendar
-                  </NavLink>
-               </li>
+               
                
                
                <li> 

@@ -92,10 +92,16 @@ const Signup = () => {
     }
     return (
 <>
-        <div className="forms-title">Welcome to&nbsp;<span class="colored-word">SpendSmart!</span> </div>
+<div className="forms-title">Welcome to&nbsp;<span class="colored-word">BruinBudget!</span> </div>
     
+    <div className="forms-smallerr">
+      An app made by Claire Brenton
+    </div>
     <div className="forms-smaller">
-      A budget app that helps you keep track of your expenses, set financial goals, and provide a breakdown on where your money is going.
+      BruinBudget is a budgeting app that helps you keep track of your expenses, set financial goals, and provide a breakdown on where your money is going. 
+    </div>
+    <div className="forms-smaller4">
+      You can create an account below or demo the app without one by clicking on the button below! 
     </div>
         <div className='box-forms'>
             {
@@ -121,6 +127,8 @@ const Signup = () => {
                     <input type="submit" />
                 </div>
                 <p className="forget-forms">Already Have an account? <Link to={"/"} className="link">{"login"}</Link></p>
+                <p className="forget-forms"><Link onClick={() => { window.location.href = "/hometest"; }} className="link">Demo the App Without an Account Here</Link>
+        </p>
             </form>
 
         </div>

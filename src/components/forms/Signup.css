@@ -1,10 +1,11 @@
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 
-
+.background{
+    background-color: rgb(216, 233, 216);
+}
 .forms-title{
     margin-top: -100px;
-    margin: 0 auto;
+    
     font-size: 3rem;
     justify-content: center;
     align-content: center;
@@ -25,6 +26,52 @@
   /* add some padding to the top and bottom of the div */
   padding: 10px 0;
   text-align:center;
+    font-family: "Baloo Da 2", serif;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    width: 500px;
+}
+.forms-smallerr{
+    margin: 0 auto; /* centers the div horizontally */
+  /* add some padding to the top and bottom of the div */
+  
+  color: grey;
+  text-align:center;
+    font-family: "Baloo Da 2", serif;
+    justify-content: center;
+    font-style: italic;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    width: 400px;
+    font-size: 15px;
+}
+.forms-smaller4{
+    margin: 0 auto; /* centers the div horizontally */
+  /* add some padding to the top and bottom of the div */
+  
+  color: rgb(77, 74, 74);
+  text-align:center;
+    font-family: "Baloo Da 2", serif;
+    padding: 10px 0;
+    padding: 10px 0;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    width: 500px;
+    font-size: 15px;
+}
+.forms-smaller1{
+    margin: 0 auto; /* centers the div horizontally */
+  /* add some padding to the top and bottom of the div */
+  padding: 10px 0;
+  text-align:center;
+  color: black;
     font-family: "Baloo Da 2", serif;
     justify-content: center;
     align-content: center;
