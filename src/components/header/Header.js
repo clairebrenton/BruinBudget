@@ -29,7 +29,7 @@ const Header = () => {
                to="/HomeTest"
 
             >
-               $pend$mart
+               BruinBudget
             </Link>
          </div>
          <nav className='link'>

@@ -62,7 +62,7 @@ const Login = () => {
     <div className="forms-title">Welcome to&nbsp;<span class="colored-word">BruinBudget!</span> </div>
     
     <div className="forms-smallerr">
-      An app made by Claire Brenton
+     
     </div>
     <div className="forms-smaller">
       BruinBudget is a budgeting app that helps you keep track of your expenses, set financial goals, and provide a breakdown on where your money is going. 
