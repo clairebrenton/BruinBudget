@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BruinBudget/static/css/main.afd5707f.css",
+    "main.js": "/BruinBudget/static/js/main.7495470c.js",
+    "index.html": "/BruinBudget/index.html",
+    "main.afd5707f.css.map": "/BruinBudget/static/css/main.afd5707f.css.map",
+    "main.7495470c.js.map": "/BruinBudget/static/js/main.7495470c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd5707f.css",
+    "static/js/main.7495470c.js"
+  ]
+}
