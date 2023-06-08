@@ -2,7 +2,7 @@
 
 BruinBudget is a fullstack app designed to help users track their cash flow and create budgets in a convenient and efficient manner. With the rise of digital payments and online transactions, it can be difficult for an individual to keep track of their expenses manually. BruinBudget allows users to log their transactions and take control of their cash flow.
 
-## How to run SpendSmart on your machine
+## How to run the app on your machine
 ### Get the code
 
 Clone the repository, `cd` into it if necessary, and install the requirements (assuming you already have [npm](https://www.npmjs.com/get-npm) installed on your machine):
